@@ -12,5 +12,6 @@ public class BajajTest {
 		
 		driver.get("https://www.bajajauto.com/");
 		Reporter.log("Bajaj launched successfully",true);
+		Reporter.log("Bajaj launched successfully",true);
 	}
 }
